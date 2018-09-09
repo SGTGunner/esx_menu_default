@@ -210,11 +210,11 @@
   font-style: oblique;
 }
 
-.menu .head_accesories {
+.menu .head_accesoires {
   font-family: SignPainter;  
   font-size: 59px;
 
-  background-image: url("../img/header/Accessories.png");
+  background-image: url("../img/header/Accessoires.png");
   text-align      : center;
   height          : 90px;
   line-height     : 105px;
@@ -273,11 +273,11 @@
 }
 
 
-.menu .head_inventory{
+.menu .head_Inventaire{
   font-family: SignPainter;  
   font-size: 59px;
 
-  background-image: url("../img/header/Inventory-en.png");
+  background-image: url("../img/header/Inventaire.jpg");
   text-align      : center;
   height          : 90px;
   line-height     : 105px;
@@ -289,7 +289,7 @@
   font-family: SignPainter;  
   font-size: 59px;
 
-  background-image: url("../img/header/masks-en.png");
+  background-image: url("../img/header/masque.jpg");
   text-align      : center;
   height          : 90px;
   line-height     : 105px;
@@ -319,11 +319,11 @@
   color : white;
   font-style: oblique;
 }
-.menu .head_supermarket{
+.menu .head_superete{
   font-family: SignPainter;  
   font-size: 59px;
 
-  background-image: url("../img/header/247-en.png");
+  background-image: url("../img/header/247.png");
   text-align      : center;
   height          : 90px;
   line-height     : 105px;
